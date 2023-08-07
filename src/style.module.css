@@ -1,0 +1,8 @@
+.header-bg{
+background-image: url(../public/image/resort.jpg);
+height: 400px;
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+width: 100%;
+}
